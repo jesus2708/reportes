@@ -1,0 +1,42 @@
+C:\Users\Ricardo\AppData\Local\Temporary Projects\interfazSQL\bin\Debug\interfazSQL.exe
+C:\Users\Ricardo\AppData\Local\Temporary Projects\interfazSQL\bin\Debug\interfazSQL.pdb
+C:\Users\Ricardo\AppData\Local\Temporary Projects\interfazSQL\bin\Debug\interfazSQL.xml
+C:\Users\Ricardo\AppData\Local\Temporary Projects\interfazSQL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ricardo\AppData\Local\Temporary Projects\interfazSQL\obj\x86\Debug\interfazSQL.Form1.resources
+C:\Users\Ricardo\AppData\Local\Temporary Projects\interfazSQL\obj\x86\Debug\interfazSQL.Resources.resources
+C:\Users\Ricardo\AppData\Local\Temporary Projects\interfazSQL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ricardo\AppData\Local\Temporary Projects\interfazSQL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ricardo\AppData\Local\Temporary Projects\interfazSQL\obj\x86\Debug\interfazSQL.exe
+C:\Users\Ricardo\AppData\Local\Temporary Projects\interfazSQL\obj\x86\Debug\interfazSQL.xml
+C:\Users\Ricardo\AppData\Local\Temporary Projects\interfazSQL\obj\x86\Debug\interfazSQL.pdb
+C:\Users\Ricardo\documents\visual studio 2010\Projects\interfazSQL\interfazSQL\obj\x86\Debug\interfazSQL.exe
+C:\Users\Ricardo\documents\visual studio 2010\Projects\interfazSQL\interfazSQL\obj\x86\Debug\interfazSQL.xml
+C:\Users\Ricardo\documents\visual studio 2010\Projects\interfazSQL\interfazSQL\obj\x86\Debug\interfazSQL.pdb
+C:\Users\Ricardo\documents\visual studio 2010\Projects\interfazSQL\interfazSQL\bin\Debug\interfazSQL.exe
+C:\Users\Ricardo\documents\visual studio 2010\Projects\interfazSQL\interfazSQL\bin\Debug\interfazSQL.pdb
+C:\Users\Ricardo\documents\visual studio 2010\Projects\interfazSQL\interfazSQL\bin\Debug\interfazSQL.xml
+C:\Users\Ricardo\documents\visual studio 2010\Projects\interfazSQL\interfazSQL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ricardo\documents\visual studio 2010\Projects\interfazSQL\interfazSQL\obj\x86\Debug\interfazSQL.Form1.resources
+C:\Users\Ricardo\documents\visual studio 2010\Projects\interfazSQL\interfazSQL\obj\x86\Debug\interfazSQL.Resources.resources
+C:\Users\Ricardo\documents\visual studio 2010\Projects\interfazSQL\interfazSQL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ricardo\documents\visual studio 2010\Projects\interfazSQL\interfazSQL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\interfazSQL\interfazSQL\obj\x86\Debug\interfazSQL.Form2.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\interfazSQL\interfazSQL\bin\Debug\PdfSharp.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\interfazSQL\interfazSQL\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\obj\x86\Debug\interfazSQL.exe
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\obj\x86\Debug\interfazSQL.xml
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\obj\x86\Debug\interfazSQL.pdb
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\bin\Debug\interfazSQL.exe
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\bin\Debug\interfazSQL.pdb
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\bin\Debug\interfazSQL.xml
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\bin\Debug\MySql.Data.dll
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\bin\Debug\PdfSharp.dll
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\bin\Debug\MySql.Data.xml
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\obj\x86\Debug\interfazSQL.vbprojResolveAssemblyReference.cache
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\obj\x86\Debug\interfazSQL.Form1.resources
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\obj\x86\Debug\interfazSQL.Form2.resources
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\obj\x86\Debug\interfazSQL.Resources.resources
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\obj\x86\Debug\interfazSQL.vbproj.GenerateResource.Cache
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\calde\OneDrive\Escritorio\interfazSQL\interfazSQL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
