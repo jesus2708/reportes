@@ -9,7 +9,7 @@ Public Class Form1
     Private Sub btnbuscar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnbuscar.Click
 
         Dim cnn As New MySqlConnection("server=127.0.0.1;database=alumnos;user id=root;password=;")
-        Dim da As New MySqlDataAdapter("Select * from alumnos", cnn)
+        Dim da As New MySqlDataAdapter("Select * from alumnos where Materia = '" & Me.txtbuscar.Text & "'", cnn)
         Dim ds As New DataSet
 
         da.Fill(ds)
@@ -207,5 +207,13 @@ Public Class Form1
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
         Form2.Show()
+    End Sub
+
+    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
+
+    End Sub
+
+    Private Sub DataGridView1_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DataGridView1.CellContentClick
+
     End Sub
 End Class

@@ -30,7 +30,7 @@ Partial Class Form2
         'btnimprimir
         '
         Me.btnimprimir.Location = New System.Drawing.Point(16, 263)
-        Me.btnimprimir.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnimprimir.Margin = New System.Windows.Forms.Padding(4)
         Me.btnimprimir.Name = "btnimprimir"
         Me.btnimprimir.Size = New System.Drawing.Size(164, 80)
         Me.btnimprimir.TabIndex = 0
@@ -43,7 +43,7 @@ Partial Class Form2
         Me.DataGridView1.AllowUserToDeleteRows = False
         Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.DataGridView1.Location = New System.Drawing.Point(227, 65)
-        Me.DataGridView1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.DataGridView1.Margin = New System.Windows.Forms.Padding(4)
         Me.DataGridView1.Name = "DataGridView1"
         Me.DataGridView1.ReadOnly = True
         Me.DataGridView1.Size = New System.Drawing.Size(472, 498)
@@ -56,7 +56,7 @@ Partial Class Form2
         Me.ClientSize = New System.Drawing.Size(747, 608)
         Me.Controls.Add(Me.DataGridView1)
         Me.Controls.Add(Me.btnimprimir)
-        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Margin = New System.Windows.Forms.Padding(4)
         Me.Name = "Form2"
         Me.Text = "Form2"
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
